@@ -1,3 +1,3 @@
-function carregou() {
-	alert("Página carregada!");
+function paginaFechada() {
+	alert("Página Fechada!");
 }
